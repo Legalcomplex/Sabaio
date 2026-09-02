@@ -1,0 +1,371 @@
+================================================================================
+SABAIO.COM  —  ALGEMENE PITCH
+For the 31 organisations reachable only through a generic or departmental inbox
+Drafted 2 September 2026 for Raymond Blijd. REVIEW BEFORE SENDING.
+================================================================================
+
+HOW THIS FILE WORKS
+
+One spine that stays the same, and a swappable opening plus "waarom u" block per
+segment. Assemble: SUBJECT + OPENING (segment) + SPINE part 1 + WAAROM U
+(segment) + SPINE part 2 + signature.
+
+Five rules before you send any of these.
+
+1. These land in a shared inbox. Put the person's name in the subject line and
+   in the salutation, or it gets filed by whoever opens the post.
+2. Never write "grey list". Suriname is NOT on the FATF grey list. It is in
+   CFATF enhanced follow-up from the 2023 mutual evaluation, with the fifth
+   round running through 2026 and 2027. Getting this wrong in front of a
+   compliance officer ends the conversation.
+3. Verify the name the week you send. Twelve leadership records in the target
+   list are flagged as possibly stale: the SOVA deken and the SNB voorzitter
+   date from 2022, Republic Bank's MD from 2021, GODO's CEO is broker-sourced,
+   and the entire CBvS Raad van Commissarissen was dismissed in May 2026.
+4. Never address anything to "de CEO van DSB". DSB has had no CEO since August
+   2023. Address the directie, or Alexander van Petten by name.
+5. One ask per letter. Thirty minutes. Not a demo, not a deck, not a trial.
+
+
+================================================================================
+THE SPINE
+================================================================================
+
+--- SPINE, PART 1 (after the segment opening) ---
+
+Sabaio.com is een Surinaams contractmanagementplatform met eSign, KYC en AML
+ingebouwd, volledig gebaseerd op Surinaams recht en met rechtsgeldige
+handtekeningen van geverifieerde tegenpartijen.
+
+Twee feiten maken dit nu urgent in plaats van later.
+
+Sinds juli 2025 is de AML-PIU niet meer operationeel. De CFATF-evaluatieronde
+loopt in 2026 en 2027, en NAMLAC telde 29 wetten en staatsbesluiten die moeten
+worden aangepast, inclusief een wettelijk verankerd UBO-register. De
+coordinatie viel weg precies toen de toetsing begon.
+
+Tegelijk komt de leveranciersgolf. TotalEnergies nam in oktober 2024 de
+investeringsbeslissing voor GranMorgu, USD 10,5 miljard, met deelname in 45
+sectoren en ongeveer USD 1,5 miljard aan bestedingen bij Surinaamse bedrijven
+vóór de eerste olie in 2028. Elk van die leveranciers moet gecontracteerd en
+geverifieerd worden.
+
+--- SPINE, PART 2 (after the "waarom u" block) ---
+
+Nog een punt dat de eerste tegenwerping wegneemt. Sinds 7 april 2025 geeft het
+Ministerie van Binnenlandse Zaken digitale uittreksels en
+nationaliteitsverklaringen uit, gecertificeerd met QR-verificatie, met dezelfde
+rechtsgeldigheid als de fysieke versie en zonder natte handtekening of stempel.
+De staat tekent al digitaal. De vraag is niet of het mag, maar wie de standaard
+zet.
+
+Over mij: met Legalcomplex analyseer ik al vijftien jaar data over juridische
+technologie. Wij leveren dataoplossingen aan onder meer Financial Times,
+Law.com, het Ministerie van Financiën (Belastingdienst) en het Ministerie van
+Defensie.
+
+Heeft u dertig minuten? Online, of in Paramaribo wanneer ik daar ben. Zelf een
+moment kiezen kan hier: https://www.legalcomplex.com/chat
+
+Met vriendelijke groet,
+Raymond Blijd
+Legalcomplex.com
++31611208001
+LinkedIn: Linkedin.com/in/raymondblijd
+https://legalcomplex.com/roadmap/sabaio
+
+
+================================================================================
+SEGMENT A — SECTORORGANISATIES
+VSB, SEOB, Bankiersvereniging, KKF, ASFA
+Send these first. One yes here carries many counterparties with it.
+================================================================================
+
+SUBJECT: Sabaio.com: een Surinaams antwoord op wat de VSB zelf signaleert
+         (t.a.v. mevr. R. Bissumbhar, voorzitter)
+
+OPENING:
+
+Geachte mevrouw Bissumbhar,
+
+De VSB waarschuwt dit jaar herhaaldelijk dat er onvoldoende centrale coordinatie
+is om het nationale AML/CFT-raamwerk te dragen, dat de informatiedeling tussen
+instanties tekortschiet, en dat een negatieve CFATF-beoordeling de
+correspondentbankrelaties en het investeerdersvertrouwen raakt. U vroeg om
+structurele sectorspecifieke handvatten en om voldoende gespecialiseerde
+capaciteit.
+
+Ik schrijf u omdat ik denk dat ik een deel van dat antwoord heb gebouwd.
+
+WAAROM U:
+
+De VSB bereikt in één gesprek wat mij tientallen losse gesprekken kost. Ik zoek
+geen lidmaatschap en geen podium. Ik wil dat u beoordeelt of dit is wat uw leden
+nodig hebben, en zo ja, hoe het bij hen terechtkomt.
+
+    [SEOB variant] De SEOB signaleerde in het bulletin van april 2026 zelf dat
+    de opgebouwde expertise sinds juli 2025 ongebruikt blijft en dat het verlies
+    aan coordinatie de uitvoering van hervormingen vertraagt. U zit met tien
+    mensen uit de bancaire sector en het bedrijfsleven aan één tafel. Dat is
+    precies het gezelschap waarin een sectorstandaard wordt vastgesteld in
+    plaats van per instelling heronderhandeld.
+
+    [SBV variant] De Bankiersvereniging publiceerde zelf het National Risk
+    Assessment-rapport. Een eSign- en KYC-standaard naar Surinaams recht is iets
+    wat een vereniging collectief aanneemt, niet iets wat tien banken los van
+    elkaar inkopen. Collectieve adoptie is ook het beste antwoord op de vraag
+    naar deelname.
+
+    [KKF variant] De KKF beheert het Handelsregister, en daarmee de meest
+    waardevolle identiteitsdata van het land. NAMLAC stelde dat het UBO-register
+    wettelijk verankerd moet worden. Ik zie de Kamer als de logische plaats
+    daarvoor, en ik zie een samenwerking waarin Sabaio de verificatie levert die
+    dat register bruikbaar maakt in de praktijk.
+
+    [ASFA variant] Uw leden gaan meedingen in de 45 sectoren die GranMorgu
+    openzet. Kwalificatie voor local content vraagt precies de documentatie die
+    Sabaio produceert: geverifieerde bedrijfsidentiteit, getekende
+    leveranciersovereenkomsten, en een dossier dat een audit doorstaat.
+
+
+================================================================================
+SEGMENT B — BANKEN
+DSB, Hakrinbank, Finabank, Trustbank Amanah, GODO, Republic Bank, SPSB,
+Surichange, NOB
+================================================================================
+
+SUBJECT: Sabaio.com: contractmanagement met KYC en AML, naar Surinaams recht
+         (t.a.v. [naam], [functie])
+
+OPENING:
+
+Geachte heer Van Petten,
+
+U bouwt uw kernbanksysteem om, inclusief het platform voor financial crime risk.
+Wat daar zelden bij zit is de laag eronder: het contract zelf, de handtekening,
+en het bewijs dat de tegenpartij is wie hij zegt te zijn.
+
+WAAROM U:
+
+    [DSB] U bent tegelijk COO van de grootste bank en voorzitter van de
+    Bankiersvereniging. Ik benader u in beide hoedanigheden, en ik zeg er
+    eerlijk bij dat de tweede mij het meest interesseert.
+
+    [Hakrinbank] Hakrinbank koos in 2021 al voor externe AML-software omdat de
+    afhandeling van meldingen handmatig was en het aantal false positives te
+    hoog. Dat is een bank die de conclusie al heeft getrokken die ik anders zou
+    moeten verkopen.
+
+    [Finabank] Finabank publiceert zijn KYC-CDD-beleid openbaar. Dat is zeldzaam
+    en het zegt mij dat u dit gesprek inhoudelijk voert. U schrijft nu bovendien
+    een digitale strategie voor 2026 tot 2028.
+
+    [Trustbank Amanah] In islamitisch bankieren is het contract het product.
+    Murabaha, ijara en sukuk vragen elk een eigen, correct vastgelegde
+    overeenkomst. Met bijna 50.000 cliënten en een uitgesproken beweging richting
+    het MKB gaat het om volume waar handmatig vastleggen vastloopt.
+
+    [GODO] Sinds de omzetting naar N.V. in oktober 2024 moet elke
+    lidmaatschapsrelatie opnieuw worden vastgelegd als klantrelatie onder een
+    nieuwe rechtspersoon. Dat is eenmalig, aan een termijn gebonden, en het gaat
+    om tienduizenden dossiers.
+
+    [SPSB] U vervangt uw kernsysteem. Dat is precies het moment waarop
+    contractsjablonen, tekenprocessen en tegenpartijdossiers opnieuw worden
+    ingericht. Sabaio zit daar bovenop als de Surinaamsrechtelijke laag, niet
+    ernaast.
+
+    [NOB] Ontwikkelingsfinanciering is de meest documentintensieve
+    kredietverlening die er is, en uw MKB-portefeuille is precies de groep die
+    nu als leverancier wordt aangehaakt. Via het FTBP kunt u dit bovendien niet
+    alleen gebruiken maar ook toegankelijk maken voor uw kredietnemers.
+
+
+================================================================================
+SEGMENT C — VERZEKERAARS
+Assuria, Self Reliance, FATUM, Parsasco
+================================================================================
+
+SUBJECT: Sabaio.com: polisdossiers en tegenpartijverificatie naar Surinaams recht
+         (t.a.v. mr. P. Mahabiersingh, Chief Legal & HR Officer)
+
+OPENING:
+
+Geachte heer Mahabiersingh,
+
+Verzekeraars zijn meldingsplichtig onder de WMTF, en de CBvS werkt aan een eigen
+toezichtwet voor het verzekeringswezen. Dat betekent dat het polisdossier
+opnieuw wordt beoordeeld op wat erin moet zitten, en door wie het is getekend.
+
+WAAROM U:
+
+    [Assuria] U bent de enige instelling in Suriname die zowel een Chief Legal
+    Officer als een Chief Risk Officer bij naam noemt. Dat scheelt mij een half
+    jaar zoeken naar de juiste tafel. Daarbij opereert Assuria in vijf
+    jurisdicties, waardoor elke polis en elke herverzekering een grensoverschrijdend
+    identiteitsvraagstuk is.
+
+    [Self Reliance] Als beursgenoteerde en deels staatsdeelnemende verzekeraar
+    draagt u zowel een publicatieplicht als publieke toetsing. Juist in een
+    periode waarin naar de governance wordt gekeken is een controleerbaar,
+    onweerlegbaar contractdossier geen luxe.
+
+    [FATUM] U werkt met groepsnormen uit Trinidad, zonder lokaal gereedschap dat
+    daarop aansluit. Dat gat is precies wat Sabaio vult. Ik stel Suriname voor
+    als proeflocatie, niet als een groepsbesluit.
+
+    [Parsasco] Als een van de vier basiszorgverzekeraars heeft u een wettelijke
+    acceptatieplicht en dus veel instroom, zonder een eigen juridische afdeling
+    om dat papierwerk te dragen. Dit is bedoeld om direct te gebruiken, niet om
+    zelf te bouwen.
+
+
+================================================================================
+SEGMENT D — TOEZICHTHOUDERS EN PUBLIEKE INSTELLINGEN
+CBvS, Belastingdienst, Gaming Control Board, Rekenkamer, Min. van Financiën
+NOTE: for the FIU there is no email. Write a letter or ask SBV/VSB to introduce.
+================================================================================
+
+SUBJECT: Sabaio.com: een Surinaamse standaard voor eSign, KYC en AML
+         (t.a.v. dhr. R. Adhin, Directeur Toezicht Kredietwezen)
+
+OPENING:
+
+Geachte heer Adhin,
+
+De Wet Toezicht Bank- en Kredietwezen 2023 legde het integriteitstoezicht
+expliciet bij de Bank, en in 2024 volgden sectorrichtlijnen die verscherpt
+cliëntenonderzoek vragen. Wat daarbij ontbreekt is uniform gereedschap bij de
+instellingen die eronder vallen.
+
+WAAROM U:
+
+Ik kom hier niet om iets te verkopen. Een private oplossing die dossiers
+uniform en controleerbaar maakt bij banken, verzekeraars, notarissen,
+casino's en geldtransactiekantoren verbetert direct de effectiviteit waarop
+Suriname wordt beoordeeld. Ik wil weten of dit past binnen uw kader, en waar het
+volgens u tekortschiet.
+
+    [Belastingdienst] U bent bezig met digitalisering en online aangifte. Het
+    UBO-register dat NAMLAC wettelijk verankerd wil zien zal moeten aansluiten
+    op uw gegevens. Geverifieerde identiteit bij contractvorming ligt daar
+    direct naast.
+
+    [Gaming Control Board] Casino's en loterijen zijn meldingsplichtige
+    instellingen met een verplichting tot cliëntenonderzoek, en zij behoren tot
+    de minst uitgeruste groep in het land. Een toezichthouder die vergunningen
+    verstrekt kan een standaard in één keer over de hele populatie leggen.
+
+    [Rekenkamer] U komt in uw onderzoeken steeds hetzelfde patroon tegen:
+    overheidscontracten met een zwak uitvoeringsspoor, niet te verifiëren
+    tegenpartijen en ontbrekende documentatie. Ik zou graag horen of dat beeld
+    klopt.
+
+    [Ministerie van Financiën en Planning] Het ministerie is de grootste
+    contractpartij van het land. Publieke aanbesteding met geverifieerde
+    tegenpartijidentiteit is de grootste toepassing die er in Suriname is, en
+    een referentie hier opent elke staatsdeelneming eronder.
+
+
+================================================================================
+SEGMENT E — NOTARIAAT EN ADVOCATUUR
+SNB, Notariaat Mannes, Vishnudatt, Kalisingh, Ramautar & Punwasi, SOVA
+================================================================================
+
+SUBJECT: Sabaio.com: rechtsgeldig tekenen naar Surinaams recht
+         (t.a.v. [naam], [functie])
+
+OPENING:
+
+Geachte [aanhef],
+
+Sabaio.com belooft een rechtsgeldige handtekening naar Surinaams recht, van een
+tegenpartij waarvan de identiteit is geverifieerd. Die belofte is niets waard
+als het notariaat hem niet onderschrijft. Daarom kom ik bij u vóór ik bij de
+banken aanklop.
+
+WAAROM U:
+
+Elke overdracht, elke oprichting en elke hypotheekakte in Suriname loopt via een
+notaris. Uw beroep is het verifiëren van identiteit en het rechtsgeldig maken
+van documenten. Sabaio is geen bedreiging daarvan maar een instrument daarvoor.
+
+Sinds 7 april 2025 geeft het Ministerie van Binnenlandse Zaken al digitale
+uittreksels uit met QR-verificatie en dezelfde rechtsgeldigheid als de fysieke
+versie. Ik wil weten waar volgens u de grens ligt tussen wat digitaal kan en wat
+bij de notaris hoort.
+
+    [SOVA variant] Advocaten zijn zelf meldingsplichtig onder de WMTF en moeten
+    cliëntenonderzoek doen, terwijl vrijwel geen enkel kantoor daar gereedschap
+    voor heeft. En u stelt de contracten op die dit platform vervolgens draagt.
+
+
+================================================================================
+SEGMENT F — PENSIOEN- EN SOCIALE FONDSEN
+Pensioenfonds Suriname, SZF
+================================================================================
+
+SUBJECT: Sabaio.com: getekende stukken en geverifieerde identiteit op schaal
+         (t.a.v. dhr. M. Miskin, directeur)
+
+OPENING:
+
+Geachte heer Miskin,
+
+Aanmelding, begunstigdenaanwijzing, bewijs van in leven zijn en
+nabestaandenclaims hebben één ding gemeen. Het zijn allemaal getekende stukken
+van iemand wiens identiteit moet kloppen, en ze komen in volume binnen.
+
+WAAROM U:
+
+Pensioenfondsen staan onder toezicht van de CBvS, dus dezelfde aanscherping die
+verzekeraars raakt komt ook uw kant op. U zit al zestien jaar op deze plek, dus
+u weet beter dan wie ook waar het papierwerk stukloopt.
+
+    [SZF variant] U voert de basiszorg uit op nationale schaal, en de regering
+    heeft bevestigd dat het SZF onder aangepast toezicht van de CBvS komt. Dat
+    betekent nieuwe eisen aan vastlegging en verantwoording, bovenop de grootste
+    instroom van het land.
+
+
+================================================================================
+SEGMENT G — BETAALDIENSTEN EN FINTECH
+Uni5Pay+ / UPPS, en later de cambio's en geldtransactiekantoren
+================================================================================
+
+SUBJECT: Sabaio.com: KYC voor klanten zonder bankrelatie
+         (t.a.v. de directie)
+
+OPENING:
+
+Geachte directie,
+
+NAMLAC noemde betaaldienstverleners expliciet in de 29 wetten die moeten worden
+aangepast. Er wordt op dit moment een toezichtkader om uw sector heen getekend.
+
+WAAROM U:
+
+Een wallet die ook mensen zonder bankrelatie bedient heeft het moeilijkste
+KYC-vraagstuk van het land: identiteit vaststellen op afstand, zonder bank als
+tussenpartij. Dat is precies wat Sabaio doet. Ik zie u eerder als
+integratiepartner dan als klant.
+
+
+================================================================================
+NIET PER E-MAIL TE BEREIKEN
+================================================================================
+
+For these there is no address at all. Phone, letter, or a warm introduction.
+
+  Manisha Jhapsie   Directeur FIU, voorzitter NAMLAC, CFATF-contactpersoon.
+                    Arguably the most consequential name on the whole list.
+                    Best route: an introduction via SBV or VSB.
+  Adelien Wijnerman Minister van Financiën en Planning, plus five named
+                    directors. Formal letter to Tamarindelaan 3, or an
+                    introduction from SEOB or VSB.
+  Ricardo Vreden    Directeur MI-GLIS. Phone or letter.
+  Rufin A. Bajnath  Voorzitter ASFA. Address or LinkedIn.
+  Adriana La Valley Country Representative IDB. Phone or LinkedIn. Treat as a
+                    funder conversation, not a sale.
+  SURVAM            No contact surface at all. Ask Mario Merhai at Assuria.
+  Effectenbeurs, Compliance Academy, VCB, de cambio's: phone or walk-in.
