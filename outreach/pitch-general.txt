@@ -19,13 +19,19 @@ Five rules before you send any of these.
    round running through 2026 and 2027. Getting this wrong in front of a
    compliance officer ends the conversation.
 3. Verify the name the week you send. Twelve leadership records in the target
-   list are flagged as possibly stale: the SOVA deken and the SNB voorzitter
-   date from 2022, Republic Bank's MD from 2021, GODO's CEO is broker-sourced,
+   list are flagged as possibly stale: the SNB voorzitter dates from 2022, Republic Bank's MD from 2021, GODO's CEO is broker-sourced,
    and the entire CBvS Raad van Commissarissen was dismissed in May 2026. The
    VSB chair is actively disputed between two sources, see Segment A.
 4. Never address anything to "de CEO van DSB". DSB has had no CEO since August
    2023. Address the directie, or Alexander van Petten by name.
 5. One ask per letter. Thirty minutes. Not a demo, not a deck, not a trial.
+6. THE SOVA SCRAPE TRAP. Every lawyer profile page on the SOVA site carries
+   SOVA's own contact block in the page furniture: Mr. Dr. J.C. de
+   Mirandastraat 10, Paramaribo, and +597 8560630. Scrapers and search
+   summarisers routinely attach it to whichever lawyer's profile they read. It
+   was seen falsely assigned to at least seven different lawyers and to Vision
+   Legalis as a firm. Any Suriname lawyer record showing that street or that
+   phone number is unverified, including in data you buy.
 
 
 ================================================================================
@@ -305,9 +311,22 @@ uittreksels uit met QR-verificatie en dezelfde rechtsgeldigheid als de fysieke
 versie. Ik wil weten waar volgens u de grens ligt tussen wat digitaal kan en wat
 bij de notaris hoort.
 
-    [SOVA variant] Advocaten zijn zelf meldingsplichtig onder de WMTF en moeten
-    cliëntenonderzoek doen, terwijl vrijwel geen enkel kantoor daar gereedschap
-    voor heeft. En u stelt de contracten op die dit platform vervolgens draagt.
+    [ADVOCATENKANTOREN variant] Sinds november 2022 zijn advocaten
+    meldingsplichtige instellingen onder de WMTF: cliëntenonderzoek,
+    transactiemonitoring, een risicobeleid, en melding van een ongebruikelijke
+    transactie bij de FIU binnen vijf dagen, met een boete tot SRD 1.000.000.
+    De verplichting staat vast, het gereedschap ontbreekt. En u stelt de
+    contracten op die dit platform vervolgens draagt.
+
+    Kantooradressen voor deze variant (alle geverifieerd):
+      info@visionlegalis.com          Vision Legalis (mevr. E. Fraenk, deken SOVA)
+      info@sewcharanpick.com          Sewcharan & Pick (mr. G. Sewcharan)
+      kraag@kraaglawyers.sr           Advocatenkantoor Kraag (mr. J. Kraag)
+      info@vdslawfirm.com             Van Dijk-Silos (mevr. N. van Dijk)
+      secretariaat@herslaws.sr        Essed & Sohansingh
+      info@schurman-advocaten.com     Schurman Advocaten
+      info@limapolawfirm.com          Lim A Po
+      raad@advocatenordesuriname.com  SOVA, de raad van de orde
 
 
 ================================================================================

@@ -216,9 +216,11 @@ nationaliteitsverklaringen uit, gecertificeerd met QR-verificatie, met dezelfde
 rechtsgeldigheid als de fysieke versie en zonder natte handtekening of stempel.
 De staat tekent al digitaal.
 
-Daar komt bij dat advocaten zelf meldingsplichtige instellingen zijn onder de
-WMTF, met een verplichting tot cliëntenonderzoek, terwijl vrijwel niemand
-daarvoor gereedschap heeft. En met GranMorgu komt er ongeveer USD 1,5 miljard
+Daar komt bij dat advocaten sinds november 2022 zelf meldingsplichtige
+instellingen zijn onder de WMTF. Cliëntenonderzoek, transactiemonitoring, een
+risicobeleid, en melding van een ongebruikelijke transactie bij de FIU binnen
+vijf dagen. De boete loopt op tot SRD 1.000.000. Vrijwel geen kantoor heeft
+daar gereedschap voor. En met GranMorgu komt er ongeveer USD 1,5 miljard
 aan bestedingen bij Surinaamse bedrijven binnen vóór de eerste olie in 2028,
 verdeeld over 45 sectoren. Dat zijn honderden nieuwe contractrelaties per jaar.
 
@@ -256,10 +258,11 @@ Ter vergelijking met wat er nu in de markt is:
   - Compliance-databases toetsen met wie u zaken doet, niet wat u met hen
     contractueel afspreekt.
 
-Waarom nu. Advocaten zijn meldingsplichtig onder de WMTF en moeten
-cliëntenonderzoek doen. De AML-PIU ligt stil sinds juli 2025, de CFATF-ronde
-loopt in 2026 en 2027, en NAMLAC noemde 29 wetten die moeten worden aangepast,
-inclusief een wettelijk verankerd UBO-register. Tegelijk levert GranMorgu
+Waarom nu. Advocaten zijn sinds november 2022 meldingsplichtig onder de WMTF:
+cliëntenonderzoek, transactiemonitoring, en melding bij de FIU binnen vijf dagen,
+met een boete tot SRD 1.000.000. Daarbovenop ligt de AML-PIU stil sinds juli
+2025, loopt de CFATF-ronde in 2026 en 2027, en noemde NAMLAC 29 wetten die
+moeten worden aangepast, inclusief een wettelijk verankerd UBO-register. Tegelijk levert GranMorgu
 ongeveer USD 1,5 miljard aan bestedingen bij Surinaamse bedrijven op vóór de
 eerste olie in 2028, verdeeld over 45 sectoren.
 
@@ -289,3 +292,176 @@ parties.
 
 Legalcomplex.com is registered with the Trade Register of the Dutch Chamber of
 Commerce under number 71150072  VAT ID: NL002364151B52
+
+
+================================================================================
+7. EDWARD NAARENDORP  —  Founder / Managing Partner, Naarendorp Advocaten
+   enaarendorp@naarendorp.com
+   (tweede naam bij hetzelfde kantoor: pchen@naarendorp.com, Patty Chen,
+    corporate / M&A / contractenrecht, oud-raadslid SOVA)
+   LET OP: adres is Cornelis Jong Bawstraat 17. Costerstraat 7 is het oude adres
+   en staat nog in half Suriname genoteerd.
+================================================================================
+
+Onderwerp: Sabaio.com: contractdossiers voor de financiële sector
+
+Geachte heer Naarendorp,
+
+Uw kantoor is in Suriname het meest gericht op de financiële sector en op grote
+financiële transacties. Dat is precies de hoek waar mijn vraag ligt.
+
+Uw cliënten zijn banken en instellingen die sinds november 2022 onder de WMTF
+vallen: cliëntenonderzoek, transactiemonitoring, melding bij de FIU binnen vijf
+dagen, boetes tot SRD 1.000.000. Zij moeten aantonen met wie zij een
+overeenkomst zijn aangegaan, en dat die persoon is wie hij zegt te zijn.
+
+Sabaio.com is een Surinaams contractmanagementplatform met eSign, KYC en AML
+ingebouwd, gebouwd op Surinaams recht, met rechtsgeldige handtekeningen van
+geverifieerde tegenpartijen. Elk dossier is herleidbaar: wie tekende, wanneer,
+op basis van welke verificatie.
+
+Wat ik van u wil weten is niet of u het koopt. Het is of de constructie
+juridisch houdt bij een cliënt die morgen door de Centrale Bank wordt bevraagd.
+
+Twee dingen die de timing bepalen. De AML-PIU ligt stil sinds juli 2025 terwijl
+de CFATF-ronde in 2026 en 2027 loopt. En GranMorgu brengt ongeveer USD 1,5
+miljard aan bestedingen bij Surinaamse bedrijven binnen vóór de eerste olie in
+2028, verdeeld over 45 sectoren. Dat zijn honderden nieuwe tegenpartijen die
+door een bank moeten worden aangenomen.
+
+Over mij: met Legalcomplex analyseer ik al vijftien jaar data over juridische
+technologie, voor onder meer Financial Times, Law.com, het Ministerie van
+Financiën (Belastingdienst) en het Ministerie van Defensie.
+
+Dertig minuten? https://www.legalcomplex.com/chat
+
+[signatuur]
+
+
+================================================================================
+8. GAETANO N. BEST  —  Founder, BEST Advocaten N.V. (alliantie met VANEPS)
+   best@best.sr
+   LET OP: dit is waarschijnlijk ook het algemene kantooradres. Noem hem in de
+   aanhef én in het onderwerp.
+================================================================================
+
+Onderwerp: Sabaio.com: lokaal verankerd, regionaal bruikbaar (t.a.v. mr. G. Best)
+
+Geachte heer Best,
+
+U treedt op als lokaal raadsman voor internationale oliemaatschappijen en hun
+dienstverleners in Suriname, en u voert financieel toezichtrecht als
+praktijkgebied. Dat maakt u de scherpste toets die ik in Suriname kan krijgen.
+
+Sabaio.com is een contractmanagementplatform met eSign, KYC en AML ingebouwd,
+gebouwd op Surinaams recht, met rechtsgeldige handtekeningen van geverifieerde
+tegenpartijen.
+
+De aanleiding is concreet. TotalEnergies nam in oktober 2024 de
+investeringsbeslissing voor GranMorgu, USD 10,5 miljard, met deelname in 45
+sectoren en ongeveer USD 1,5 miljard aan bestedingen bij Surinaamse bedrijven
+vóór de eerste olie in 2028. Uw cliënten aan de IOC-kant moeten die
+leveranciers contracteren en verifiëren. De leveranciers zelf hebben nog nooit
+een vendor qualification doorlopen.
+
+Er is een tweede reden waarom ik juist u schrijf. Via de alliantie met VANEPS
+kijkt u over vier andere jurisdicties heen. De CFATF-druk is niet Surinaams,
+die geldt regionaal. Ik heb Sabaio zo gebouwd dat de juridische verankering per
+jurisdictie wordt gezet en niet achteraf wordt vertaald. Of dat klopt, hoor ik
+graag van iemand die in Curaçao en Paramaribo tegelijk werkt.
+
+Over mij: vijftien jaar data over juridische technologie met Legalcomplex, voor
+onder meer Financial Times, Law.com, het Ministerie van Financiën
+(Belastingdienst) en het Ministerie van Defensie.
+
+Dertig minuten, online of in Paramaribo? https://www.legalcomplex.com/chat
+
+[signatuur]
+
+
+================================================================================
+9. ELLESON M. FRAENK  —  Vision Legalis; DEKEN, Surinaamse Orde van Advocaten
+   info@visionlegalis.com   (persoonlijk adres bestaat niet publiek)
+   LinkedIn: linkedin.com/in/elleson-fraenk-739034a/  (actieve poster)
+   Telefoon kantoor: +597 520303. NIET +597 8560630, dat is SOVA zelf.
+================================================================================
+
+Onderwerp: Sabaio.com: een beroepsstandaard, geen product (t.a.v. mevr. E. Fraenk,
+           deken)
+
+Geachte mevrouw Fraenk,
+
+Ik schrijf u in uw hoedanigheid als deken, niet als kantoorhouder.
+
+Sinds november 2022 zijn advocaten meldingsplichtige instellingen onder de
+WMTF. Cliëntenonderzoek, transactiemonitoring, een risicobeleid, en melding van
+een ongebruikelijke transactie bij de FIU binnen vijf dagen. De boete loopt op
+tot SRD 1.000.000, met tuchtrechtelijke en reputatiegevolgen daarbovenop.
+
+De verplichting staat vast. Het gereedschap ontbreekt. Voor zover ik het kan
+overzien heeft vrijwel geen enkel kantoor in Suriname een uniforme manier om
+cliëntenonderzoek vast te leggen op een wijze die een toets doorstaat.
+
+Sabaio.com is een Surinaams contractmanagementplatform met eSign, KYC en AML
+ingebouwd, gebouwd op Surinaams recht. Ik kom hier niet met een licentie voor
+de Orde. Ik kom met de vraag of dit iets is wat de balie collectief zou moeten
+willen, en zo ja, welke eisen u eraan zou stellen voordat u het aan uw leden
+zou willen laten zien.
+
+Twee redenen waarom dit nu speelt. Sinds 7 april 2025 geeft het Ministerie van
+Binnenlandse Zaken digitale uittreksels uit met QR-verificatie en dezelfde
+rechtsgeldigheid als de fysieke versie. En met GranMorgu komt er ongeveer USD
+1,5 miljard aan bestedingen bij Surinaamse bedrijven binnen vóór 2028. Uw leden
+gaan die contracten schrijven.
+
+Ik weet dat u zich met vernieuwing van het Surinaamse IE-recht bezighoudt, dus
+ik ga ervan uit dat de vraag hoe het recht met techniek meebeweegt u bekend is.
+
+Over mij: vijftien jaar data over juridische technologie met Legalcomplex, voor
+onder meer Financial Times, Law.com, het Ministerie van Financiën
+(Belastingdienst) en het Ministerie van Defensie. Ik ben geen advocaat, en dat
+is precies waarom ik uw oordeel nodig heb.
+
+Dertig minuten? https://www.legalcomplex.com/chat
+
+[signatuur]
+
+
+================================================================================
+10. HUGO A.M. ESSED  —  Founding Partner, Essed & Sohansingh N.V.
+    hessed@herslaws.sr
+    (mede-oprichter: rsohansingh@herslaws.sr; secretariaat@herslaws.sr)
+    LET OP: het maildomein is herslaws.sr, niet essedsohansingh.com.
+================================================================================
+
+Onderwerp: Sabaio.com: tegenpartijverificatie bij internationale financiering
+
+Geachte heer Essed,
+
+Uw cliënten zijn banken, oliemaatschappijen, rederijen en
+verzekeringssyndicaten, en internationale financiering is een van uw
+praktijkgebieden. Dat is de hoogste concentratie AML-plichtige tegenpartijen
+per contract van welk kantoor in Suriname dan ook.
+
+Grensoverschrijdende financiering is precies waar het misgaat: een partij in
+Paramaribo, een partij daarbuiten, en een dossier dat aan beide kanten moet
+standhouden.
+
+Sabaio.com is een Surinaams contractmanagementplatform met eSign, KYC en AML
+ingebouwd, gebouwd op Surinaams recht, met rechtsgeldige handtekeningen van
+geverifieerde tegenpartijen. De verificatie zit in het tekenmoment zelf, niet
+in een apart dossier dat er later bij gezocht moet worden.
+
+Waarom nu: de AML-PIU ligt stil sinds juli 2025, de CFATF-ronde loopt in 2026
+en 2027, en NAMLAC noemde 29 wetten die moeten worden aangepast, inclusief een
+wettelijk verankerd UBO-register. Voor uw scheepvaart- en energiecliënten komt
+daar de GranMorgu-leveranciersgolf bovenop: ongeveer USD 1,5 miljard aan
+bestedingen bij Surinaamse bedrijven vóór de eerste olie in 2028.
+
+Over mij: vijftien jaar data over juridische technologie met Legalcomplex, voor
+onder meer Financial Times, Law.com, het Ministerie van Financiën
+(Belastingdienst) en het Ministerie van Defensie.
+
+Dertig minuten, online of in Paramaribo? https://www.legalcomplex.com/chat
+
+[signatuur]

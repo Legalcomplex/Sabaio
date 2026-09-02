@@ -414,3 +414,90 @@ Separately confirmed either way: **Daniela Herkul is VSB's elected Oil & Gas sec
 3. **The SEC Local Content Conference 2025 policy report** and SEC members directory.
 4. **Staatsolie Annual Report 2025** — annual reports carry the company secretary and named managers.
 5. **Shyamnarain Associates N.V.** fielded both a Tax Lawyer and a Legal Counsel as SEOGS speakers. Staatsolie's international counsel are **VanEps Kunneman VanDoorne** and, on the lender side, **Mayer Brown**.
+
+---
+
+# Part E — Business law firms
+
+**The richest vein in the whole research.** Around twenty verified personal addresses, four confirmed firm patterns, and a market small enough to cover completely: roughly 190 registered advocaten, of whom only about 60 to 80 across 10 to 12 firms do business law. One campaign reaches all of them.
+
+## E0. ⚠️ The SOVA scrape trap — read before buying any lawyer data
+
+Every lawyer profile page on the SOVA site carries **SOVA's own contact block** in the page furniture: **Mr. Dr. J.C. de Mirandastraat 10, Paramaribo, and +597 8560630.** Scrapers and search summarisers routinely attach it to whichever lawyer's profile they happen to read. It was seen falsely assigned to at least seven different lawyers and to Vision Legalis as a firm. **Any Suriname lawyer record showing that street or that phone number is unverified**, including in data you pay for.
+
+## E1. Verified personal addresses
+
+| Lawyer | Title | Firm | Email |
+|---|---|---|---|
+| **Hans R. Lim A Po Jr.** | Managing Partner | Lim A Po | `hans.limapo@limapolawfirm.com` |
+| Ruby C.A. Bleau | Department Head, General Business Law | Lim A Po | `ruby.bleau@limapolawfirm.com` |
+| Sharon W. Wattien | Department Head | Lim A Po | `sharon.wattien@limapolawfirm.com` |
+| Reshmie V. Mahabir | Associate | Lim A Po | `reshmie.mahabir@limapolawfirm.com` |
+| Natasha Salarbaks | Advocaat | Lim A Po | `natasha.salarbaks@limapolawfirm.com` |
+| Marja I. Vos | Of Counsel | Lim A Po | `marja.vos@limapolawfirm.com` |
+| **Edward Naarendorp** | Founder / Managing Partner | Naarendorp | `enaarendorp@naarendorp.com` |
+| **Patty Chen** | Associate; ex-Raadslid SOVA; corporate, M&A, contract | Naarendorp | `pchen@naarendorp.com` |
+| **Humphrey R. Schurman** | Founder | Schurman Advocaten | `hschurman@schurman-advocaten.com` |
+| Odessey Kok Tai Ling | Advocaat | Schurman Advocaten | `oling@schurman-advocaten.com` |
+| **Hugo A.M. Essed** | Founding Partner | Essed & Sohansingh | `hessed@herslaws.sr` |
+| **Rani Sohansingh** | Founding Partner | Essed & Sohansingh | `rsohansingh@herslaws.sr` |
+| Prema R. Sohansingh | Associate | Essed & Sohansingh | `psohansingh@herslaws.sr` |
+| Kamini D. Seopershad | Associate | Essed & Sohansingh | `kseopershad@herslaws.sr` |
+| Wandana Ramlal-Bhattoe | Advocaat | Essed & Sohansingh | `wramlal@herslaws.sr` |
+| **Kathleen J. Kraag-Brandon** | Partner | Kraag | `kjbrandon@kraaglawyers.sr` |
+| D.S. Kraag | Partner | Kraag | `dskraag@kraaglawyers.sr` |
+| H.P. Boldewijn | Partner | Kraag | `hpboldewijn@kraaglawyers.sr` |
+| **Nailah U. van Dijk** | Managing Partner | Van Dijk-Silos (VDS) | `nvandijk@vdslawfirm.com` |
+| **Gaetano N. Best** | Founder | BEST Advocaten (alliance with VANEPS) | `best@best.sr` ⚠️ probably also the firm inbox |
+| K.V. Alakhramsing | Advocaat | BEST Advocaten | `kvalakhramsing@gmail.com` |
+| Joan M. Nibte | Principal | Advocatenkantoor Nibte | `jnibte@hotmail.com` |
+| Audrey M. Tjong A Sie | Principal | Tjong A Sie | `audrey.tjongasie@tasjur.com` |
+
+**Firm inboxes:** `info@limapolawfirm.com` · `info@schurman-advocaten.com` · `secretariaat@herslaws.sr` · `kraag@kraaglawyers.sr` · `info@vdslawfirm.com` · `info@visionlegalis.com` · `info@sewcharanpick.com` · `raad@advocatenordesuriname.com`
+
+**Four confirmed patterns:** `firstname.lastname@limapolawfirm.com` (also mirrored on `@limapo.sr`) · `[initial][lastname]@naarendorp.com` · `[initial][lastname]@herslaws.sr` · `[initials][lastname]@kraaglawyers.sr`. Note Kraag mixes one- and two-initial local parts (`kjbrandon` vs `dskraag`), so **John Kraag's own address was deliberately not constructed.** Note also that the mail domain for Essed & Sohansingh is **herslaws.sr**, not essedsohansingh.com.
+
+## E2. The firms, ranked by fit
+
+- **Lim A Po** (est. 1937, oldest and largest, ~9 lawyers) — **Chambers Band 1**, "one of the pre-eminent civil law departments in the jurisdiction." Hans Lim A Po Jr. individually ranked for "large corporate and banking mandates." Practice covers banking, finance, insurance, corporate, **offshore oil and gas**, and natural resources. The firm foreign investors enter Suriname through, and **Fernandes Group's external counsel**.
+- **Naarendorp Advocaten** (est. 1995, ~9 people) — Chambers-ranked, Edward Naarendorp individually ranked. **The financial-sector firm**: litigation and advisory centred on banks and large financial transactions. ⚠️ Address is **Cornelis Jong Bawstraat 17**; Costerstraat 7 is the old one still listed everywhere. **Richard "Rick" Tjon A Joe** is worth a name-check: ABN AMRO treasurer, EY Corporate Finance partner, COO of C. Kersten & Co, called to the bar in 2017. He will evaluate Sabaio as an operator, on process cost and control. His address is `[INFERRED]` and the surname hyphenation makes the local part genuinely uncertain, so reach him through Edward Naarendorp.
+- **BEST Advocaten, in alliance with VANEPS** — **local counsel to International Oil Companies** in Suriname, with **financial regulatory law** as a named practice. The most GranMorgu-adjacent firm on the list, and a win carries into Curaçao, Aruba, Bonaire and Sint Maarten.
+- **Essed & Sohansingh** — **Chambers Band 2**. Clients explicitly include banks, oil companies, shipping companies and insurance syndicates, with **international financing** as a named practice. Highest concentration of AML-regulated counterparties per contract.
+- **Schurman Advocaten** (est. 1988, ~50 staff incl. collections, payroll and tax arms) — markets **Corporate Law (Oil & Gas)** and banking and finance, and is the go-to for **foreign companies incorporating in Suriname**. Every incorporation generates a KYC event and a signed directors' pack.
+- **Van Dijk-Silos (VDS)** — **mining, oil, gas and energy** are named practice areas. Founder **Dr. Jennifer van Dijk-Silos** is a former **Minister of Justice and Police** and serial national-commission chair; her endorsement would carry. Her own address is genuinely ambiguous between `jvandijk@` and `jvandijksilos@`, so it was not guessed. Go through Nailah or `info@`.
+- **Advocatenkantoor Kraag** — **Chambers Band 3**; rare **oil-and-gas and telecoms arbitration** capability plus an international-contracts practice. John Kraag is described by Chambers as one of Suriname's most seasoned corporate lawyers.
+- **Vision Legalis** — **Elleson M. Fraenk is the sitting Deken of SOVA** (elected June 2022, 91 of 169 votes) and Honorary Consul of Sweden. She publishes on Surinamese IP law reform. **No personal address exists publicly**; use `info@visionlegalis.com` or [LinkedIn](https://www.linkedin.com/in/elleson-fraenk-739034a/). Phone is **+597 520303**, not the 8560630 that scrapers attach.
+- **Sewcharan & Pick** (renamed from Sewcharan Advocaten) — Gerold Sewcharan's stated practice is **directors' liability, shareholders' rights in large corporations and financial law**. Founded the Stichting voor de Rechtsorde in Suriname. Has litigated against SOVA's own leadership, which cuts both ways as a channel.
+- **Advocatenkantoor Hooplot** — **Chambers Band 2, a genuine corporate firm, and no email or web domain exists anywhere.** Only Watermolenstraat 36 and +597 476406. Biggest single hole in the coverage.
+
+## E3. The sharpest wedge for the legal profession
+
+Suriname enacted the **Wet ter voorkoming en bestrijding van Money Laundering en Terrorismefinanciering (WMTF)** in **November 2022**. **Advocaten are explicitly named** as non-financial service providers subject to it, alongside notaries, tax advisers, accountants, brokers, jewellers, gold dealers and casinos.
+
+The duties: client screening and CDD, transaction monitoring, a documented risk policy, and **mandatory written reporting of unusual transactions to FIU Suriname within five days** where a subjective indicator is triggered. **Fines run to SRD 1,000,000**, plus criminal prosecution and reputational exposure. The IMF ran a technical-assistance programme in 2024 on strengthening the framework and building risk-based supervision at the CBvS.
+
+Every one of these firms is a reporting entity with a legal CDD obligation, and almost none has tooling. **Compliance Academy Suriname** and **Simply Compliant** sell WMTF training and screening into this market but do not do eSign or contract lifecycle. They are complements and possible channel partners, not competitors.
+
+## E4. Cautions
+
+- ⚠️ `mwatchman@naarendorp.com` is verified but **stale** — Monique Watchman left in 2024 to found **Suriname Desk**. Pursue her there instead; a corporate-litigation-trained founder building something new is unusually likely to adopt a new tool.
+- ⚠️ **Gerrold E.R. Adipoera appears at both Naarendorp and BEST.** Do not mail him at both.
+- ⚠️ Address conflicts before any physical mailing: Naarendorp (Costerstraat 7 old vs Cornelis Jong Bawstraat 17 current) · Kraag (Weidestraat 61-63 vs Mr. E. Brumastraat 63 vs Klipstenenstraat 33) · Essed & Sohansingh (Prins Hendrikstraat 74-78 vs 76) · BEST (Henck Arronstraat 68 vs Rode Kruislaan 6).
+- ⚠️ `blufpandadv@sr.net` and `advocaten4_justice@yahoo.com` come from a **2015** German embassy list and 2014–2016 directory entries. Probably stale.
+- **No firm has been publicly named as counsel on GranMorgu**, and no Surinamese bank publicly names its external advisers. The firm-to-sector mapping above is inferred from firms' own published practice areas.
+- **The U.S. Embassy April 2026 attorney list is 11 pages and was only partially recoverable** through search. Downloading it on an unrestricted connection and re-running this exercise is the single highest-yield remaining action.
+
+## E5. Open legal roles — org-structure intelligence
+
+Three legal functions are hiring in Suriname right now. Each posting is a public description of a legal function's shape, reporting line and workload.
+
+| Role | Organisation | Link |
+|---|---|---|
+| **Legal Counsel** (Master's in Surinamese law, 12+ yrs, commercial and corporate, Dutch + English) | TotalEnergies EP Suriname | [jobs.totalenergies.com/.../76170](https://jobs.totalenergies.com/en_US/careers/JobDetail/Legal-Counsel/76170) |
+| **Legal** — explicitly "support to **the Head of Legal** of the branch office based in Paramaribo"; company/business law an absolute requirement | TotalEnergies EP Suriname | [jobs.totalenergies.com/.../77128](https://jobs.totalenergies.com/en_US/careers/JobDetail/Legal/77128) |
+| **Legal Affairs Manager Suriname** | Newmont | [jobs.newmont.com/us/en/job/33094](https://jobs.newmont.com/us/en/job/33094/Legal-Affairs-Manager-Suriname) |
+| **Legal & Corporate Affairs Manager** and **Legal Specialist** | N.V. Grassalco | [grassalco.com/careers](https://grassalco.com/careers/) · [vacaturebank.sr/bedrijf/grassalco](https://vacaturebank.sr/bedrijf/grassalco/) |
+
+Posting 77128 confirms a **Head of Legal exists at TotalEnergies EP Suriname** and that the Paramaribo legal function is being staffed up for the contract wave. The incumbent's name is still the most valuable missing name in this research.
+
+Related: **EnergyJobs.sr**, the TotalEnergies/Airswift board launched November 2025, carries postings from TotalEnergies, Staatsolie, SBM Offshore, Halliburton, OneSubsea, Weatherford and CCC Group. Its [about page](https://energyjobs.sr/about-us/) and listings are a qualified contractor-tier directory.
