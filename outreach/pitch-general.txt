@@ -21,7 +21,8 @@ Five rules before you send any of these.
 3. Verify the name the week you send. Twelve leadership records in the target
    list are flagged as possibly stale: the SOVA deken and the SNB voorzitter
    date from 2022, Republic Bank's MD from 2021, GODO's CEO is broker-sourced,
-   and the entire CBvS Raad van Commissarissen was dismissed in May 2026.
+   and the entire CBvS Raad van Commissarissen was dismissed in May 2026. The
+   VSB chair is actively disputed between two sources, see Segment A.
 4. Never address anything to "de CEO van DSB". DSB has had no CEO since August
    2023. Address the directie, or Alexander van Petten by name.
 5. One ask per letter. Thirty minutes. Not a demo, not a deck, not a trial.
@@ -82,11 +83,20 @@ Send these first. One yes here carries many counterparties with it.
 ================================================================================
 
 SUBJECT: Sabaio.com: een Surinaams antwoord op wat de VSB zelf signaleert
-         (t.a.v. mevr. R. Bissumbhar, voorzitter)
+         (t.a.v. [VOORZITTER, NAAM VERIFIEREN], voorzitter)
+
+!! DO NOT SEND UNTIL THE NAME IS CONFIRMED. Two research passes returned
+!! different VSB boards. One gives Rekha Bissumbhar as voorzitter with Mervel
+!! Kotzebue as ondervoorzitter. The other gives B. Renten as voorzitter, with
+!! W. Baldew vice, M. Parsan penningmeester, J. van Charante and R. Soechit as
+!! leden, and Kamlesh Ganesh as wnd. directeur. Both cite VSB pages. One is
+!! stale. Rekha Bissumbhar is separately confirmed as Director Upstream at
+!! Staatsolie, so she may hold a sector seat rather than the chair. Call
+!! +597 475286 and ask who currently chairs before this goes out.
 
 OPENING:
 
-Geachte mevrouw Bissumbhar,
+Geachte [aanhef],
 
 De VSB waarschuwt dit jaar herhaaldelijk dat er onvoldoende centrale coordinatie
 is om het nationale AML/CFT-raamwerk te dragen, dat de informatiedeling tussen

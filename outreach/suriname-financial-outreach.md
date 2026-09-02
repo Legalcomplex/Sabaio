@@ -312,3 +312,105 @@ Assuria HQ (Henck Arronstraat 5–7 vs Grote Combéweg 43/37) · Pensioenfonds a
 4. [U.S. Embassy accountants list](https://sr.usembassy.gov/wp-content/uploads/sites/205/2024/12/Accountants-Entries_2019.pdf) — named contacts and emails for the full audit-firm population
 5. `sbv.sr/over-sbv/huidig-bestuur/` and `surinamestockexchange.com/index.php/bestuur/` — current boards
 6. The DSB and Finabank 2025 annual reports, plus `gov.sr/ministeries/ministerie-van-financien-en-planning/contact/` — RvC rosters, the directiesecretariaat, and the ministry's per-directorate addresses
+
+---
+
+# Part D — Corporates, state enterprises and the GranMorgu contractor tier
+
+Same method caveat: egress-blocked, so all of this is search extraction. Titles
+sourced from theorg.com are aggregated from LinkedIn rather than company-published
+(theorg flags 326 unverified positions for Staatsolie alone) and are marked.
+
+**Zero verified personal addresses at Staatsolie or TotalEnergies.** Brokers claim
+`{initial}.{last}@staatsolie.com` at 66.6% and `first.last@totalenergies.com` at
+91.5%, but no verified named example exists at either to anchor a pattern, so
+nothing was constructed. A third of guesses wrong is a self-inflicted wound for a
+product whose whole proposition is verified counterparties. Route through the
+functional inboxes and LinkedIn.
+
+## D1. Staatsolie Maatschappij Suriname N.V. — the biggest prize
+
+Dr. Ir. H.S. Adhinstraat 21, Paramaribo · +597 499649 · state-owned, founded 1980
+
+| Person | Title | Source |
+|---|---|---|
+| **Daniela Herkul** | **Manager Corporate Supply Chain Management**; previously and concurrently **Counsel Upstream & Corporate Secretary** since May 2018 | Strong — SEOGS speaker listing + EITI supporter page |
+| **Janice Gajadin Joella** | Manager of Corporate Legal Affairs | theorg.com only |
+| **Dominique van Dijk** | Manager Governance, Risk & Compliance & Corporate Communication | theorg.com only |
+| Annand Jagesar | Managing Director | company site |
+| Agnes Moensi-Sokowikromo | Finance Director & CFO | company site |
+| Rekha Bissumbhar | Director Upstream | company site |
+| Vandana Gangaram Panday | Director, Staatsolie Hydrocarbon Institute | company site |
+| Frits Wolters | Deputy Director, Offshore | theorg.com |
+
+**Verified inboxes** (all functional; every individual is `[NOT FOUND]`):
+
+| Address | What it is |
+|---|---|
+| **`SHI@staatsolie.com`** | **Staatsolie Hydrocarbon Institute, which operates the national Suriname Supplier Registration Portal for the whole offshore sector. The highest-leverage verified address in the entire file.** |
+| `Accountspayable@staatsolie.com` | Mandated invoice submission address; sending address must match the PO |
+| `investors@staatsolie.com` · `info@staatsolie.com` | IR and general |
+
+**Daniela Herkul is the single most valuable individual found anywhere in this research.** A lawyer who drafted and negotiated Production Sharing Contracts, now running corporate supply chain at the most contract-heavy organisation in the country. Staatsolie's named EITI contact. Lectures in Minerals Law & Regulation at Anton de Kom University. Former Legal Counsel at IAMGOLD. SEOGS speaker. And in October 2024 re-elected unopposed as the **Oil & Gas sector Group Representative at the VSB**. Legal buyer, procurement buyer and the sector's elected voice in one person. Email `[NOT FOUND]` — reach her via [LinkedIn](https://www.linkedin.com/in/daniela-herkul-285b71a/) or through the VSB.
+
+**Why Staatsolie:** counterparty on every PSC in the country (three more signed in 2025 with Petronas and Chevron), a US$1.6bn senior secured borrower, and operator of **two** supplier onboarding systems: SAP Ariba for its own procurement, and the SSRP through SHI for the entire offshore sector. That second role makes Staatsolie the de facto KYC gatekeeper for every supplier in the GranMorgu wave. Tender notices publish as Requests for Expression of Interest with an on-page upload form and **no named buyer**, deliberately.
+
+## D2. TotalEnergies EP Suriname B.V.
+
+Paramaribo branch (the designated hub for all GranMorgu admin, ops support and logistics) · +597 433-325
+
+- **`ep-sr-parbo-general-contact@totalenergies.com`** `[VERIFIED]`
+- **Susan Bansropansingh** — **Local Content Coordinator**; named on the SEOGS 2026 programme and Local Content Forum speaker listings. She owns the onboarding problem Sabaio solves. Email `[NOT FOUND]`.
+- **Artur Nunes da Silva** — General Manager & Country Chair since Sept 2023; keynoted the SEC Local Content Conference 2025 alongside VP Gregory Rusland. Email `[NOT FOUND]`.
+- ⚠️ **A Head of Legal role provably exists** (careers-portal jobs 77128 and 76170, Paramaribo, Dutch **and** English required) but **the incumbent's name is not indexed anywhere reachable. This is the most valuable single missing name in the file** — a legal function staffing up for a contract wave, in Dutch, in Paramaribo.
+- TEEPSR has publicly committed to **posting its contracts and procurement plans** to encourage local participation, and runs 14 named Local Content initiatives. It launched **EnergyJobs.sr** in Nov 2025 with Airswift; the seven companies already posting there (TotalEnergies, Staatsolie, SBM Offshore, Halliburton, OneSubsea, Weatherford, CCC Group) are a qualified contractor-tier target list.
+
+## D3. Kuldipsingh — the second door
+
+**`m.sporkslede@kuldipsingh.net`** — **Marcel Sporkslede, Head Of Operations, Kuldipsingh Port Facility.** `[INFERRED]` from the pattern `{initial}.{lastname}@kuldipsingh.net`, anchored on the verified `v.ramkhelawan@kuldipsingh.net`. Single-example basis, so verify before volume. [LinkedIn](https://www.linkedin.com/in/marcel-sporkslede-929710177/) · `info@kuldipsingh.net` `[VERIFIED]`
+
+This is the answer to the referral ask in the 13 September follow-up: no legal or supplier-registration role is indexed anywhere in the group, so Sporkslede is the operational counterparty and the correct second approach. The port is **TRACE-certified**, meaning they already buy the counterparty-due-diligence concept and pay for it.
+
+## D4. Grassalco — the best-timed cold approach in the file
+
+`contact@grassalco.com` `[VERIFIED]` · Sir Winston Churchillweg 3 · +597 482-727
+
+**Grassalco is recruiting a Legal & Corporate Affairs Manager *and* a Legal Specialist right now.** An organisation standing up a legal function from zero buys tooling more readily than one defending an existing stack. Approach the directie before the hires land: **Johan Seymor** (president-directeur), **Berto Sampi** (operationeel directeur), **Jerney Noordzee** (financieel directeur), all newly appointed with a new RvC. Individuals `[NOT FOUND]`.
+
+## D5. Other corporates
+
+- **VSH United** — the Paramaribo holding company explicitly acts as **legal counsel for all subsidiaries**: one legal function, many operating companies, high contract volume in shipping, trading, transport and logistics. Structurally the best in-house target after Staatsolie. `info@vshunited.com`, `logistics@vshunited.com`, `trading@vshunited.com`, `clearance@vshunited.com` all `[VERIFIED]`. **No named lawyer found.**
+- **Surinaamse Brouwerij (Parbo, Heineken-owned)** — `secretariaat.brouwerij@parbobier.com` `[VERIFIED]`. **Joop Wiggers**, Supply Chain Manager since **1 May 2025** (new in seat, best-converting combination outside oil). **Margarita van der Zwart**, People & Corporate Affairs Manager (where legal sits in Heineken opcos this size). **Gijs van der Loo**, MD since Sept 2024. Publishes full annual reports.
+- **N.V. EBS** — **Danny Egger, Sr. Legal Advisor** ([LinkedIn](https://www.linkedin.com/in/danny-egger-7605728/)), one of only two named in-house lawyers confirmed at any Surinamese state enterprise. Email `[NOT FOUND]`. `customerservices@ebs.sr` `[VERIFIED]`. ⚠️ **`p.landveld@nvebs.com` for CEO Cedrick Landveld is unusable** — broker-derived, no anchoring example, domain inconsistent with the published `ebs.sr`, and the initial does not match the given name. Confirm by phone or discard.
+- **N.V. CIC** — `andjenie.raghoe@cicsur.com` `[VERIFIED]`, which **confirms the pattern `firstname.lastname@cicsur.com`**. SSE-listed, so listed-company governance obligations.
+- **Torarica Group** — Dave Boucke, CEO; `reservations@torarica.com` `[VERIFIED]`. First Surinamese hotel chain with Green Key certification, so a demonstrated appetite for auditable compliance.
+- **SWM** — Dr. Clifton Lienga MSc, Directeur since 2022. No email `[NOT FOUND]`.
+- **Newmont Suriname** — a **Legal Affairs Manager Suriname** seat is currently advertised, so time an approach to the new hire. ⚠️ two different Paramaribo addresses appear across records.
+- **Fernandes Group** — **legal work goes to external counsel Advokatenkantoor Lim A Po.** Useful: Lim A Po is the gateway to Fernandes, and we already hold `hans.limapo@limapolawfirm.com`.
+- **Rudisa** `rudisa@rudisa.net` · **Varossieau** `varossieau.info@ppg.com` · **GOw2** `info@GOw2.com` — all `[VERIFIED]`, no named contacts.
+- **Telesur, Elgawa, Rosebel/Zijin, SPCS, and SBM's and Technip's Suriname staff** — nothing usable. Phone rather than search further.
+- **Saipem** holds a **US$1.9bn** offshore contract from TotalEnergies for Suriname (Nov 2024). Belongs on the list; same contract-volume logic.
+
+## D6. SEOGS — the ready-made supplier directory
+
+**6th edition, 23–26 June 2026, Roeli's Event Venue, Paramaribo. Hosted by Staatsolie**, TotalEnergies principal partner. 230+ speakers, **260+ exhibitors**, 1,200+ delegates. **2026 adds a two-day Local Content Forum for the first time**, whose published agenda covers supplier registration and qualification, procurement transparency, standards and financing. That agenda is, line by line, the Sabaio pitch.
+
+- `enquiry@suriname-energy.com` `[VERIFIED]` — **Marny Daal-Vogelland**, President & CEO of Fossil Energy Consultancy and co-organiser, **formerly Director of the Staatsolie Hydrocarbon Institute**. A speaking slot here puts Sabaio in front of the whole supplier wave at once.
+- `mcuartas@gep-events.com` `[VERIFIED]` — Marcela Cuartas, Global Event Partners, media.
+- **Suriname Energy Chamber** — `info@sec.sr` `[VERIFIED]`; **Orlando Olmberg**, President and founder. Ran the Local Content Conference 2025 and published a [full policy report](https://sec.sr/wp-content/uploads/2025/12/Final-Local-Content-Conference-2025-Full-Policy-Report.pdf) that will name people no search reached. Signed an MoU with the Energy Chamber of Trinidad & Tobago in June 2026.
+
+## D7. ⚠️ VSB board — two sources conflict, resolve before writing
+
+The banking/non-bank research returned **Rekha Bissumbhar as VSB voorzitter** with Mervel Kotzebue as ondervoorzitter. The corporate research returned **B. Renten as voorzitter**, with W. Baldew (vice), M. Parsan (penningmeester), J. van Charante and R. Soechit (leden), and **Kamlesh Ganesh as wnd. directeur**. Both cite VSB pages; one is stale. Rekha Bissumbhar is separately confirmed as **Director Upstream at Staatsolie**, so she may hold a sector seat rather than the chair.
+
+VSB is target #1 in the whole file, so this must be resolved by phone (+597 475286) before anything is sent. The Segment A letter in `pitch-general.txt` is marked DO NOT SEND until it is.
+
+Separately confirmed either way: **Daniela Herkul is VSB's elected Oil & Gas sector Group Representative.** One warm introduction through the VSB reaches Staatsolie's supply chain function and the employers' body at the same time.
+
+## D8. Highest-value unworked seams
+
+1. **TotalEnergies EP Suriname's Head of Legal** — the role exists, the name is not indexed anywhere.
+2. **Every SEOGS directory page** — exhibitors 2026 (260+ companies), Local Content Forum speakers, recommended suppliers. All egress-blocked; the highest-yield pages in this brief.
+3. **The SEC Local Content Conference 2025 policy report** and SEC members directory.
+4. **Staatsolie Annual Report 2025** — annual reports carry the company secretary and named managers.
+5. **Shyamnarain Associates N.V.** fielded both a Tax Lawyer and a Legal Counsel as SEOGS speakers. Staatsolie's international counsel are **VanEps Kunneman VanDoorne** and, on the lender side, **Mayer Brown**.
